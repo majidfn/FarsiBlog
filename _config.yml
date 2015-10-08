@@ -1,15 +1,15 @@
 # Site settings
-title:       مجید
+title:		 MAJID
 email:       your_email@example.com
 author:      مجید فاطمیان
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "http://majidfn.github.io/FarsiBlog/"
-url:         "http://majidfn.github.io/FarsiBlog/"
+baseurl:     ""
+url:         ""
 date_format: "%b %-d, %Y"
 
 # Google analytics
 # Google services
-google_analytics: 
+google_analytics:
 google_verification:
 
 # Optional features
@@ -37,7 +37,7 @@ flattr_button:
 
 # Post sharing icons
 show_sharing_icons: true
-share_text: 'Share this post!'
+share_text: ''
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
@@ -53,7 +53,8 @@ share_hackernews: true
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+# permalink:    pretty
+permalink:		/:year/:month/:day/:title/
 paginate:     4
 sass:
   compressed: true
