@@ -3,8 +3,8 @@ title:		 MAJID
 email:       your_email@example.com
 author:      مجید فاطمیان
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "fa.majid.tech"
-url:         "fa.majid.tech"
+baseurl:     "http://fa.majid.tech"
+url:         "http://fa.majid.tech"
 date_format: "%b %-d, %Y"
 
 # Google analytics
