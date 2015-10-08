@@ -1,3 +1,9 @@
+
+This is my personal blog in Farsi, my mother tongue. Using github pages, Jekyll and the theme is based on [pixyll.com](http://www.pixyll.com)
+
+
+### Old Readme here:
+
 # Pixyll
 
 [pixyll.com](http://www.pixyll.com)
