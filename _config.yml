@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       مجید
 email:       your_email@example.com
-author:      John Otander
+author:      مجید فاطمیان
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "http://majidfn.github.io/FarsiBlog/"
+url:         "http://majidfn.github.io/FarsiBlog/"
 date_format: "%b %-d, %Y"
 
 # Google analytics
