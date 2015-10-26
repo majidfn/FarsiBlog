@@ -11,6 +11,14 @@
 
 .site-header .site-title {
   font-size: $h2;
+  float: right;
+}
+
+.site-header .site-description {
+  float: right;
+  font-size: smaller;
+  padding-right: 10px;
+  color: #777
 }
 
 .site-nav {
@@ -50,5 +58,12 @@
 
 .social-icons .left, .social-icons .right {
   text-align: center;
-  float: none;
+}
+
+.social-icons .left {
+  float: left;
+}
+
+.social-icons .right {
+  float: right;
 }
