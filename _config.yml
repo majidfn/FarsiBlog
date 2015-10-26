@@ -3,8 +3,8 @@ title:		   مجید فاطمیان
 email:       majidfn@yahoo.com
 author:      مجید فاطمیان
 description: "نرم‌افزار و دیگر جذابیت‌ها"
-baseurl:     "http://fa.majid.tech"
-url:         "http://fa.majid.tech"
+baseurl:     "http://majidfn.github.io/FarsiBlog"
+url:         "http://majidfn.github.io/FarsiBlog"
 date_format: "%b %-d, %Y"
 
 # Google analytics
