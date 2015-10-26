@@ -1,8 +1,8 @@
 # Site settings
-title:		 MAJID
-email:       your_email@example.com
+title:		   مجید فاطمیان
+email:       majidfn@yahoo.com
 author:      مجید فاطمیان
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "نرم‌افزار و دیگر جذابیت‌ها"
 baseurl:     "http://fa.majid.tech"
 url:         "http://fa.majid.tech"
 date_format: "%b %-d, %Y"
@@ -25,7 +25,7 @@ disqus_shortname:
 # Social icons
 github_username: majidfn
 bitbucket_username: majidfn
-stackoverflow_id: majidfn
+stackoverflow_id: 1098631
 twitter_username: majidfn
 google_plus_id:
 linkedin_username:
